@@ -1,0 +1,15 @@
+{
+  "name": "dashboard-cli",
+  "version": "0.1.0",
+  "description": "Console dashboard app",
+  "main": "bin/dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dashboard",
+    "blessed"
+  ],
+  "author": "Mike Green <mike.is.green@gmail.com>",
+  "license": "MIT"
+}
