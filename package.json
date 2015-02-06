@@ -11,5 +11,12 @@
     "blessed"
   ],
   "author": "Mike Green <mike.is.green@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikedamage/dashboard-cli.git"
+  },
+  "dependencies": {
+    "blessed-contrib": "0.0.7"
+  }
 }
